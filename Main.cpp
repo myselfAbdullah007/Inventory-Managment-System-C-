@@ -1,6 +1,5 @@
-//21F-9476
-//21F-9242
-//21F-9455
+//Created by Abdullah Chaudhary
+// insta || @oye_abdullahhh
 #include<iostream>
 #include<fstream>
 #include<string>
