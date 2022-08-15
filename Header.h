@@ -1,6 +1,5 @@
-//21F-9476
-//21F-9242
-//21F-9455
+//Code Created By Abdullah Chaudhary
+//instagram / @oye_abdullahhh
 #include<iostream>
 #include<fstream>
 #include<string>
